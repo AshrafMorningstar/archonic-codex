@@ -2,7 +2,7 @@
   "name": "archonic-codex",
   "private": true,
   "version": "1.0.0",
-  "description": "🌌 Archonic Codex - The Universal Knowledge Engine. An infinite 3D knowledge repository interface built with React 19.",
+  "description": "\ud83c\udf0c Archonic Codex - The Universal Knowledge Engine. An infinite 3D knowledge repository interface built with React 19.",
   "author": "Ashraf Morningstar <https://github.com/AshrafMorningstar>",
   "keywords": [
     "react",
@@ -15,7 +15,12 @@
     "knowledge-engine",
     "threejs",
     "r3f",
-    "web-os-alternative"
+    "web-os-alternative",
+    "automation",
+    "developer-tools",
+    "productivity",
+    "open-source",
+    "viral"
   ],
   "homepage": "https://AshrafMorningstar.github.io/archonic-codex",
   "scripts": {
